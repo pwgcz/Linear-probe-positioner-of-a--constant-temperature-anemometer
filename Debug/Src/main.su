@@ -1,0 +1,9 @@
+main.c:405:6:SetDir.part.0	0	static
+main.c:413:6:MakeStep.part.1	8	static
+main.c:143:6:SystemClock_Config	72	static
+main.c:90:5:main	48	static
+main.c:405:6:SetDir	0	static
+main.c:413:6:MakeStep	0	static
+main.c:352:6:HAL_TIM_PeriodElapsedCallback	24	static
+main.c:422:6:HAL_UART_RxCpltCallback	0	static
+main.c:435:6:Error_Handler	0	static
